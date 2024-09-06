@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+                    "qotd_date": "2024-08-17T00:00:00.000+00:00",
+                    "quote": {
+                        "id": 29846,
+                        "dialogue": false,
+                        "private": false,
+                        "tags": [
+                            "happiness",
+                            "inspirational",
+                            "life"
+                        ],
+                        "url": "https://favqs.com/quotes/buddha/29846-thousands-of--",
+                        "favorites_count": 8,
+                        "upvotes_count": 3,
+                        "downvotes_count": 1,
+                        "author": "Buddha",
+                        "author_permalink": "buddha",
+                        "body": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."
+                    }
+                }
